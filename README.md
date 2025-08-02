@@ -1,3 +1,5 @@
+def generate_profile():
+    profile = """
 <h1 align="center">👋 Hello, I'm Bisma Arshad</h1>
 <h3 align="center">Frontend Developer | UI Enthusiast | Open Source Contributor</h3>
 
@@ -64,4 +66,8 @@ I'm a passionate Frontend Developer from Pakistan with 1.5+ years of experience 
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="90"/>
   </a>
 </p>
+"""
+    return profile
 
+if __name__ == "__main__":
+    print(generate_profile())
