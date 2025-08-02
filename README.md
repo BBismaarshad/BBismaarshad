@@ -1,5 +1,3 @@
-def generate_profile():
-    profile = """
 <h1 align="center">👋 Hello, I'm Bisma Arshad</h1>
 <h3 align="center">Frontend Developer | UI Enthusiast | Open Source Contributor</h3>
 
@@ -35,6 +33,9 @@ I'm a passionate Frontend Developer from Pakistan with 1.5+ years of experience 
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
+### Backend & Other Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
 ### Core Web Technologies
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -47,7 +48,7 @@ I'm a passionate Frontend Developer from Pakistan with 1.5+ years of experience 
 
 ## 🌱 Currently Learning
 - 🤖 OpenAI Agent SDK
-- � Advanced React Patterns
+- ⚛️ Advanced React Patterns
 - 🚀 Performance Optimization Techniques
 - 🔐 Web Security Best Practices
 
@@ -66,8 +67,3 @@ I'm a passionate Frontend Developer from Pakistan with 1.5+ years of experience 
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="90"/>
   </a>
 </p>
-"""
-    return profile
-
-if __name__ == "__main__":
-    print(generate_profile())
