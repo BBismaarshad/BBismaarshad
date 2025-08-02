@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bisma</h1>
-<h3 align="center">Frontend Developer | React Specialist | UI Enthusiast</h3>
+<h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 <p align="center">
   <a href="https://bismaarshad.vercel.app/" target="_blank">
@@ -44,7 +44,6 @@ I'm a passionate Frontend Developer from Pakistan with 1.5 years of experience c
 - 🧠 Open AI Agent SDK
 - ⚛️ Advanced React Patterns
 - 🚀 Performance Optimization Techniques
-- 🔍 Web Accessibility (a11y) Standards
 
 ## 📫 Let's Connect
 <p align="center">
