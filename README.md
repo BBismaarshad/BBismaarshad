@@ -65,6 +65,3 @@ I'm a passionate Frontend Developer from Pakistan with 1.5+ years of experience 
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bismaarshad&label=Profile%20views&color=0e75b6&style=flat" alt="bismaarshad" />
-</p>
