@@ -23,7 +23,6 @@ I'm a passionate Frontend Developer from Pakistan with 1.5+ years of experience 
 - 💻 Responsive and accessible user interfaces
 - ⚡ Blazing fast web applications
 - 🎨 Beautiful and intuitive UI/UX
-- 🔧 Maintainable and scalable codebases
 
 ## 🛠️ Tech Stack
 
@@ -37,7 +36,6 @@ I'm a passionate Frontend Developer from Pakistan with 1.5+ years of experience 
 ### Core Web Technologies
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -46,17 +44,10 @@ I'm a passionate Frontend Developer from Pakistan with 1.5+ years of experience 
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ## 🌱 Currently Learning
+- 🤖 OpenAI Agent SDK
 - � Advanced React Patterns
-- 🤖 AI Integration in Web Apps
 - 🚀 Performance Optimization Techniques
 - 🔐 Web Security Best Practices
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bismaarshad&show_icons=true&theme=radical" alt="Bisma's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bismaarshad&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ## 📫 Let's Connect
 <p align="center">
