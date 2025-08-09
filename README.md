@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Bisma Arshad</h1>
-<h3 align="center">Frontend Developer | UI Enthusiast | Open Source Contributor</h3>
+<h3 align="center">Frontend Developer | UI Enthusiast </h3>
 
 <p align="center">
   <a href="https://bismaarshad.vercel.app/" target="_blank">
